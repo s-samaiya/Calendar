@@ -1,0 +1,18 @@
+[
+  {
+    "event": "CT",
+    "eventDesc": "important",
+    "date": "1/10/2000",
+    "time": "10:00AM",
+    "eventCreated": "7/21/2021, 7:53:29 PM",
+    "status": "To be executed"
+  },
+  {
+    "event": "cCT",
+    "eventDesc": "important",
+    "date": "1/10/2000",
+    "time": "10:00AM",
+    "eventCreated": "7/21/2021, 7:59:46 PM",
+    "status": "To be executed"
+  }
+]
